@@ -10,11 +10,11 @@
 
 ---
 
-### 🙋 Sobre mim
+### About me
 
-Tenho 24 anos e estou no **6º semestre de Engenharia de Software** na Univille. Hoje meu foco de estudo é **C# e .NET**, mas na faculdade também coloco a mão na massa com **Java, PHP, Python, HTML e PostgreSQL** em projetos acadêmicos e pessoais.
+Tenho 24 anos e estou no **6º semestre de Engenharia de Software** na Univille. Meu foco atual é o ecossistema **C# / .NET**, e na faculdade também desenvolvo projetos acadêmicos e pessoais com **Java, PHP, Python, HTML e PostgreSQL**.
 
-Estou em busca da minha **primeira oportunidade na área** de desenvolvimento, pronto pra aprender, contribuir e crescer junto com o time. 🚀
+Estou em busca da minha **primeira oportunidade como desenvolvedor**, com vontade de aprender, contribuir com o time e evoluir tecnicamente.
 
 <div align="center">
 
@@ -27,17 +27,17 @@ Estou em busca da minha **primeira oportunidade na área** de desenvolvimento, p
 
 ---
 
-### 🛠️ Principais tecnologias
+### Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,php,python,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,python,html,postgres&perline=7" />
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
