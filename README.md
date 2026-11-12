@@ -41,9 +41,6 @@ Estou em busca da minha **primeira oportunidade como desenvolvedor**, com vontad
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucasborghezam&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&locale=pt-br" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasborghezam&layout=compact&size_weight=0.5&count_weight=0.5&theme=synthwave&hide_border=true&border_radius=10&locale=pt-br" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Lucasborghezam&theme=synthwave&hide_border=true&border_radius=10&locale=pt_BR" />
